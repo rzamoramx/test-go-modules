@@ -1,0 +1,4 @@
+github.com/rzamoramx/test-go-modules/submodule v0.0.0-20220904170910-50fec8e525cc h1:OiIdZ9f+010vUqKdufFPZI6tT9KBl8Uq/zkpH9h9Kto=
+github.com/rzamoramx/test-go-modules/submodule v0.0.0-20220904170910-50fec8e525cc/go.mod h1:laQ6+G/5cCBIZmI6vgi4QXP78AsLC/zCTJQPz71SKIc=
+github.com/rzamoramx/test-go-modules/submodule v0.0.2 h1:uMnJuG2PV/UnbCwUIoRdJZw5SwUdWPkq/vpPXPUHsmU=
+github.com/rzamoramx/test-go-modules/submodule v0.0.2/go.mod h1:laQ6+G/5cCBIZmI6vgi4QXP78AsLC/zCTJQPz71SKIc=
