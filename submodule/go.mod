@@ -1,3 +1,3 @@
-module github.com/rzamoramx/submodule
+module github.com/rzamoramx/test-go-modules/submodule
 
 go 1.19
