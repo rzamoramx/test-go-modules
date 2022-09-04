@@ -3,5 +3,5 @@ package submodule
 import "fmt"
 
 func Foo() {
-	fmt.Println("Fisrt version of foo")
+	fmt.Println("this is v2.0.0 version of foo")
 }
